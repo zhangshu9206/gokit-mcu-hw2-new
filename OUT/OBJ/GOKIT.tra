@@ -1,0 +1,49 @@
+*** Creating Trace Output File '.\OUT\OBJ\GOKIT.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\out\obj\startup_stm32f10x_md.o"'
+### List of Objects: adding '".\out\obj\misc.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_adc.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_bkp.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_can.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_cec.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_crc.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_dac.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_dbgmcu.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_dma.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_exti.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_flash.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_fsmc.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_i2c.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_iwdg.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_pwr.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_rtc.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_sdio.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_spi.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\out\obj\stm32f10x_wwdg.o"'
+### List of Objects: adding '".\out\obj\core_cm3.o"'
+### List of Objects: adding '".\out\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\out\obj\main.o"'
+### List of Objects: adding '".\out\obj\time2.o"'
+### List of Objects: adding '".\out\obj\key.o"'
+### List of Objects: adding '".\out\obj\time4.o"'
+### List of Objects: adding '".\out\obj\delay.o"'
+### List of Objects: adding '".\out\obj\led.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\out\obj\startup_stm32f10x_md.o" ".\out\obj\misc.o" ".\out\obj\stm32f10x_adc.o" ".\out\obj\stm32f10x_bkp.o" ".\out\obj\stm32f10x_can.o" ".\out\obj\stm32f10x_cec.o" ".\out\obj\stm32f10x_crc.o" ".\out\obj\stm32f10x_dac.o" ".\out\obj\stm32f10x_dbgmcu.o" ".\out\obj\stm32f10x_dma.o" ".\out\obj\stm32f10x_exti.o" ".\out\obj\stm32f10x_flash.o" ".\out\obj\stm32f10x_fsmc.o" ".\out\obj\stm32f10x_gpio.o" ".\out\obj\stm32f10x_i2c.o" ".\out\obj\stm32f10x_iwdg.o" ".\out\obj\stm32f10x_pwr.o" ".\out\obj\stm32f10x_rcc.o" ".\out\obj\stm32f10x_rtc.o" ".\out\obj\stm32f10x_sdio.o" ".\out\obj\stm32f10x_spi.o" ".\out\obj\stm32f10x_tim.o" ".\out\obj\stm32f10x_usart.o" ".\out\obj\stm32f10x_wwdg.o" ".\out\obj\core_cm3.o" ".\out\obj\system_stm32f10x.o" ".\out\obj\main.o" ".\out\obj\time2.o" ".\out\obj\key.o" ".\out\obj\time4.o" ".\out\obj\delay.o" ".\out\obj\led.o" --library_type=microlib --ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\OUT\LIST\GOKIT.map" -o ".\OUT\OBJ\GOKIT.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\OUT\OBJ\GOKIT.axf'
+### ADS-LD Command File: '.\OUT\OBJ\GOKIT.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\OUT\OBJ\GOKIT.lnp', Handle=0x00000564
+### Writing '.lnp' file
+### ADS-LD Command file '.\OUT\OBJ\GOKIT.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
