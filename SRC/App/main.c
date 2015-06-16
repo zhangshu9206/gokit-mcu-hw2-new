@@ -20,15 +20,16 @@ void sys_hw_init()
 }
 int main(void)			
 { 	
-	sys_hw_init();	
+	sys_hw_init();
+while(1);	
 	while(1)
 	{		
-        Gokit_MessageHandle();
-        Gokit_P0CmdHandle();
-        KEY_Handle();
-        IR_Handle();
-        DHT11_Read_Data(&Device_ReadStruct.Temperature, &Device_ReadStruct.Humidity);
-        ReportDevStatusHandle(); 
+//         Gokit_MessageHandle();
+//         Gokit_P0CmdHandle();
+//         KEY_Handle();
+//         IR_Handle();
+//         DHT11_Read_Data(&Device_ReadStruct.Temperature, &Device_ReadStruct.Humidity);
+//         ReportDevStatusHandle(); 
 	}
 }
 /*******************************************************************************
