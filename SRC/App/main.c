@@ -21,7 +21,10 @@ void sys_hw_init()
 int main(void)			
 { 	
 	sys_hw_init();
-while(1);	
+	while(1)
+	{
+		for(;;);
+	}
 	while(1)
 	{		
 //         Gokit_MessageHandle();
