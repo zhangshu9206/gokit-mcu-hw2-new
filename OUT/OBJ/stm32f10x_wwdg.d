@@ -2,7 +2,7 @@
 .\OUT\OBJ\stm32f10x_wwdg.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\OUT\OBJ\stm32f10x_wwdg.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\OUT\OBJ\stm32f10x_wwdg.o: .\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
-.\OUT\OBJ\stm32f10x_wwdg.o: d:\Keil_v4\ARM\RV31\INC\stdint.h
+.\OUT\OBJ\stm32f10x_wwdg.o: D:\Program Files\keil470\ARM\ARMCC\bin\..\include\stdint.h
 .\OUT\OBJ\stm32f10x_wwdg.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\OUT\OBJ\stm32f10x_wwdg.o: .\SRC\Includes\stm32f10x_conf.h
 .\OUT\OBJ\stm32f10x_wwdg.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

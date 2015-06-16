@@ -2,7 +2,7 @@
 .\OUT\OBJ\delay.o: .\SRC\Includes\hw_lib.h
 .\OUT\OBJ\delay.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\OUT\OBJ\delay.o: .\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
-.\OUT\OBJ\delay.o: d:\Keil_v4\ARM\RV31\INC\stdint.h
+.\OUT\OBJ\delay.o: D:\Program Files\keil470\ARM\ARMCC\bin\..\include\stdint.h
 .\OUT\OBJ\delay.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\OUT\OBJ\delay.o: .\SRC\Includes\stm32f10x_conf.h
 .\OUT\OBJ\delay.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -22,10 +22,10 @@
 .\OUT\OBJ\delay.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 .\OUT\OBJ\delay.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\OUT\OBJ\delay.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-.\OUT\OBJ\delay.o: d:\Keil_v4\ARM\RV31\INC\stdio.h
-.\OUT\OBJ\delay.o: d:\Keil_v4\ARM\RV31\INC\string.h
-.\OUT\OBJ\delay.o: d:\Keil_v4\ARM\RV31\INC\stdarg.h
-.\OUT\OBJ\delay.o: d:\Keil_v4\ARM\RV31\INC\stdlib.h
+.\OUT\OBJ\delay.o: D:\Program Files\keil470\ARM\ARMCC\bin\..\include\stdio.h
+.\OUT\OBJ\delay.o: D:\Program Files\keil470\ARM\ARMCC\bin\..\include\string.h
+.\OUT\OBJ\delay.o: D:\Program Files\keil470\ARM\ARMCC\bin\..\include\stdarg.h
+.\OUT\OBJ\delay.o: D:\Program Files\keil470\ARM\ARMCC\bin\..\include\stdlib.h
 .\OUT\OBJ\delay.o: .\SRC\Includes\delay.h
 .\OUT\OBJ\delay.o: .\SRC\Includes\hw_lib.h
 .\OUT\OBJ\delay.o: .\SRC\Includes\stm32f10x_it.h
